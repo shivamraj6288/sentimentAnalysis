@@ -1,3 +1,5 @@
 hello 
 checking git cmmands
 linking it with terminal 
+==========================================
+test check 2
