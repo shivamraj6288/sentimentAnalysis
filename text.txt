@@ -1,0 +1,3 @@
+hello 
+checking git cmmands
+linking it with terminal 
